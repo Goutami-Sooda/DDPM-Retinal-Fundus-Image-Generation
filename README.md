@@ -1,1 +1,1 @@
-# Retinal-Fundus-Image-Generation
+# DDPM-Retinal-Fundus-Image-Generation
